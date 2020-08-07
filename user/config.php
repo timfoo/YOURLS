@@ -14,7 +14,7 @@
 define( 'YOURLS_DB_USER', 'b23ddfe4afdfda' );
 
 /** MySQL database password */
-define( 'YOURLS_DB_PASS', 'ee5d279f' );
+define( 'YOURLS_DB_PASS', '59c7353e18d6274' );
 
 /** The name of the database for YOURLS
  ** Use lower case letters [a-z], digits [0-9] and underscores [_] only */
