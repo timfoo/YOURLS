@@ -35,7 +35,7 @@ define( 'YOURLS_DB_PREFIX', 'yourls_' );
 
 /** YOURLS installation URL -- all lowercase, no trailing slash at the end.
  ** If you define it to "http://sho.rt", don't use "http://www.sho.rt" in your browser (and vice-versa) */
-define( 'YOURLS_SITE', 'http://your-own-domain-here.com' );
+define( 'YOURLS_SITE', 'https://url-short-project.herokuapp.com/' );
 
 /** YOURLS language
  ** Change this setting to use a translation file for your language, instead of the default English.
