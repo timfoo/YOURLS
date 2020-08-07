@@ -18,7 +18,7 @@ define( 'YOURLS_DB_PASS', '59c7353e18d6274' );
 
 /** The name of the database for YOURLS
  ** Use lower case letters [a-z], digits [0-9] and underscores [_] only */
-define( 'YOURLS_DB_NAME', '	heroku_f98d0cf8a5b0093' );
+define( 'YOURLS_DB_NAME', 'heroku_f98d0cf8a5b0093' );
 
 /** MySQL hostname.
  ** If using a non standard port, specify it like 'hostname:port', eg. 'localhost:9999' or '127.0.0.1:666' */
